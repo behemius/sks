@@ -10,3 +10,5 @@ if ($size -eq "S") {
 } else {
      Write-Host "Bzdet"
 }
+
+echo "Bye!"
