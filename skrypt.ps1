@@ -1,4 +1,3 @@
-echo "Hello World!"
 $size = Read-Host -Prompt "Provide S/M/L parameter"
 
 if ($size -eq "S") {
@@ -11,4 +10,3 @@ if ($size -eq "S") {
      Write-Host "Bzdet"
 }
 
-echo "Dodaj gałąź"
