@@ -10,3 +10,5 @@ if ($size -eq "S") {
      Write-Host "Bzdet"
 }
 
+echo "Versja 1.1"
+
