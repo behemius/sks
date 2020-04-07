@@ -11,4 +11,4 @@ if ($size -eq "S") {
      Write-Host "Bzdet"
 }
 
-echo "Bye bye, Gosia!"
+echo "Bye bye, Pawel!"
