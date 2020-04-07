@@ -11,4 +11,5 @@ if ($size -eq "S") {
      Write-Host "Bzdet"
 }
 
-echo "Dodaj gałąź"
+echo "Dodałem gałąź temp"
+echo "Versja 1.1"
