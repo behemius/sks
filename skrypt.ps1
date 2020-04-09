@@ -12,3 +12,4 @@ if ($size -eq "S") {
 }
 
 echo "Bye bye, Krzysztof!"
+echo "Nowa galaz"
